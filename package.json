@@ -1,0 +1,23 @@
+{
+  "name": "all-places-of-gilgit-baltistan",
+  "version": "1.0.0",
+  "description": "All major place of Gilgit Baltistan",
+  "main": "places.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saharakks/all-places-of-gilgit-baltistan"
+  },
+  "keywords": [
+    "cities",
+    "places",
+    "gilgit-baltistan",
+    "json",
+    "database"
+  ],
+  "author": "Azmat Hunzai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saharakks/all-places-of-gilgit-baltistan/issues"
+  },
+  "homepage": "https://github.com/saharakks/all-places-of-gilgit-baltistan#readme"
+}
